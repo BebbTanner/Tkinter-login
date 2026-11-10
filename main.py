@@ -4,6 +4,8 @@
 
     Here is the link for the article that I am using to build this login screen:
     https://pythonistaplanet.com/python-tkinter-project-ideas/
+
+    https://pythonistaplanet.com/python-project-ideas/
 '''
 
 import tkinter as tk
